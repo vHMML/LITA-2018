@@ -4,3 +4,11 @@ The Hill Museum & Manuscript Library has developed a new method that allows scho
 Daniel Gullo, Hill Museum & Manuscript Library
 John Meyerhofer, Hill Museum & Manuscript Library
 Bryan Lor, Solutions Design Group
+
+Link to slides:
+https://drive.google.com/file/d/1RSOxXqt4tb2HSB-sQtXmC2bhHuo5Yigo/view?usp=sharing
+
+[vHMML.org](https://www.vhmml.org)
+[vHMML DH](https://www.vhmmldh.org)
+
+[![vHMML Data Portal Video/Demo](https://i.ytimg.com/vi/6xSVvm3fEeU/hqdefault.jpg)](https://youtu.be/6xSVvm3fEeU "vHMML Data Portal")
